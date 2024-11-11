@@ -1,5 +1,5 @@
 # Ex-03-SOAP-based-Web-Services
-## AADHITHYA D-212222220001
+## MANIKANDAN R-212222220022
 ## Aim:
 
 To create and execute SOAP-based web service program using server, client and client- side remote invocation.
@@ -167,4 +167,4 @@ The remaining procedure is the same as the Client-side.
 
 
 ## Result:
-Thus, the SOAP based addition program using Web service is executed successfully.
+Thus, the SOAP based addition program using Web service is executed successfully
