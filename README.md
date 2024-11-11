@@ -1,4 +1,4 @@
-# Ex-01-SOAP-based-Web-Services
+# Ex-03-SOAP-based-Web-Services
 
 ## Aim:
 
